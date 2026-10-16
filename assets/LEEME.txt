@@ -1,0 +1,1 @@
+Carpeta reservada para imágenes propias. Actualmente las imágenes de ejemplo se cargan desde Unsplash por internet.
